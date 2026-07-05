@@ -36,7 +36,6 @@ linkedin_Profile.pdf
 Thumbs.db
 
 # Editor
-.vscode/
 .idea/
 
 # Memory files (Claude Code user-specific)
@@ -70,3 +69,8 @@ upskill/*.md
 .agents/**/node_modules/
 .agents/**/*.log
 .agents/usage/
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
