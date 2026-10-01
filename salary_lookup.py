@@ -17,6 +17,7 @@ Usage:
     python salary_lookup.py --list-all
 """
 
+import utils.session
 import json
 import sys
 import re
